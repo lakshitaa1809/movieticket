@@ -1,6 +1,4 @@
 import React from "react";
-import data from "./data";
-
 const Languages = ({ language, languagefilter }) => {
   return (
     <div className="btn_list">
